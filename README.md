@@ -7,6 +7,6 @@ Generates all simple graphs with n vertices and saves as an adjacency matrix.
 * Make sure your compiler uses C++11
 
 ## Output
-* n<number of vertices>g<graph number>.txt
+* nxgi.txt x being the value of n and i being the ith graph generated
 * For example on n = 3 the first graph would be n3g1.txt
 * Adjacency Matrix
